@@ -39,3 +39,5 @@ int romanToInt(char* s) {
 // Input: s = "MCMXCIV"
 // Output: 1994
 // Time to solve: 13min 15sec
+
+//Difficulties faced: the current < next instruction, had to think a long time in order to make it work, the conversion itself was simple

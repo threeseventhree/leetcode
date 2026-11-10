@@ -37,3 +37,5 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
 //iteration 2: va1=4 val2=6 sum=10 carry=1 digit=0, node: val0, current: 0, 7
 //iteration 3: val1=3 val2=4 sum=7+carry=8 digit=8, node: val8, current 8, 0
 //Time to solve: 13min
+
+//Difficulties: although ive known about linked lists and how they function, using them in a practical application seemed difficult to me, this has helped me improve my knowledge.

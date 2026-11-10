@@ -21,3 +21,5 @@ int lengthOfLongestSubstring(char* s) {
 // Input: s = "abcabcbb"
 // Output: 3
 //Time to solve: 7min 30sec
+
+//Difficulties: moving the string window properly

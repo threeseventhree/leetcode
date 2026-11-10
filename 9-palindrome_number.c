@@ -19,3 +19,5 @@ bool isPalindrome(int x) {
 //Input: x = 121
 //Output: true
 //Time to solve: 6min
+
+//Difficulties: i could'nt remember the mathematical algorithm for performing this so i had used strings instead....
