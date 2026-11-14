@@ -16,4 +16,3 @@ int strStr(char* haystack, char* needle) {
 }
 
 //Time to solve: 10min 56sec
-
